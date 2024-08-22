@@ -2,6 +2,8 @@
 
 - Minimum Dart SDK versions is now 2.16
 - Updated some dependencies versions
+- Bump `compileSdkVersion` to 34
+- Update `com.google.android.play:app-update` to `2.1.0`
 
 ## 2.2.1
 
