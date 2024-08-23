@@ -11,7 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
   update_available_android:
-     path: "../update_available_android"
+    git:
+      url: https://github.com/appvinio/update_available.git
+      ref: release/2.3.0
+      path: update_available_android
   update_available_ios: ^2.3.0
   update_available_platform_interface: ^3.1.0
 
