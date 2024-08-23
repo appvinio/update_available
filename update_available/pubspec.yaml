@@ -10,7 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  update_available_android: ^2.3.0
+  update_available_android:
+     path: "../update_available_android"
   update_available_ios: ^2.3.0
   update_available_platform_interface: ^3.1.0
 
